@@ -1,0 +1,7 @@
+.env
+/migrations
+/venv
+*.sqlite
+__pycache__
+*.mp4
+client_secret.json
